@@ -58,11 +58,12 @@ section{
 }
 
 section h1{
+  color: gray;
   margin-bottom: 8px;
 }
 
 section h2{
-  font-color: green; 
+  color: green; 
 }
 
 section p{
