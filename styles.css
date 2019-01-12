@@ -57,7 +57,7 @@ section{
 }
 
 section h1{
-  color: rgb(0,0,255);
+  font-weight: normal;
   margin-bottom: 8px;
 }
 
@@ -131,4 +131,12 @@ footer p{
 
 .about p{
   text-align: left;
+}
+
+.about h1{
+  color: rgb(0,0,255)
+}
+
+.about h2{
+  color: rgb(0,255,0)
 }
